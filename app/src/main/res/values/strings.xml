@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Aditi</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">About</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Biography</string>
+    <string name="second_fragment_label">Hobbies</string>
+    <string name="third_fragment_label">Contact</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="aboutme">
+        Hi, my name is Aditi Shrivastava. I am currently pursuing my Master\'s degree at Pace
+        University, New York. This is my first mobile application, which is all about me :)
+    </string>
+    <string name="hobbies">
+        I like to read, click pictures, listen to music, travel and paint
+    </string>
+    <string name="contact">
+        My email is aditishriv0601@pace.edu
+    </string>
+</resources>
